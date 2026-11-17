@@ -1,7 +1,7 @@
 url: https://schulfinder.wien/de/schulen
-status: down
-code: 404
-responseTime: 1860
-lastUpdated: 2026-11-17T13:42:03.648Z
+status: up
+code: 200
+responseTime: 6224
+lastUpdated: 2026-11-17T21:55:01.367Z
 startTime: 2026-11-03T20:43:05.502Z
 generator: Upptime <https://github.com/upptime/upptime>
