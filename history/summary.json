@@ -22,17 +22,17 @@
     "url": "https://schulfinder.wien/de/schulen",
     "icon": "https://icons.duckduckgo.com/ip3/schulfinder.wien.ico",
     "slug": "schul-finder-wien-schulen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 686,
-    "timeWeek": 257,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "time": 310,
+    "timeDay": 1273,
+    "timeWeek": 458,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   }
 ]
